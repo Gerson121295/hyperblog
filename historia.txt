@@ -15,5 +15,6 @@ Gersonescobedo.p(arroba)gmail.com
  Es otra cuenta,,,contrase;a de 
 
 	Master 1
+	Master 2
 
 Release nuevo esta vez no soy un colaborado -- hare un Fork----wiii
